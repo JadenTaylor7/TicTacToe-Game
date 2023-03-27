@@ -14,7 +14,7 @@
 #Idea: user choice will handle all the calls and functions inside it
 #Thought: user choice function will have to be called at the very end, because it calls other functions
 #That must be previously defined
-
+#
 
 #Step 1 enacted: Let player 1 decide if X or O. Choose player 2's letter based on player 1 answer.
 def playerValidate(oneOrTwo):
